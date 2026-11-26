@@ -1,0 +1,304 @@
+===== banxico_by_state.py
+Total       $ 15,935.8m vs $ 15,810.4m  +0.8%  
+California  $  4,819.5m vs $  4,765.1m  +1.1%  Los Angeles; Fresno
+Texas       $  2,335.0m vs $  2,397.6m  -2.6%  Houston; Dallas; San Antonio
+Illinois    $    660.7m vs $    648.4m  +1.9%  Chicago
+Florida     $    554.0m vs $    569.2m  -2.7%  Miami
+Georgia     $    536.5m vs $    546.9m  -1.9%  Atlanta
+New York    $    505.8m vs $    483.3m  +4.6%  New York (Queens)
+Arizona     $    353.2m vs $    391.9m  -9.9%  Phoenix
+Arizona+Florida+Texas+Georgia: $3,778.7m vs $3,905.6m (-3.2%), 23.7% of Q3 2026 US-to-Mexico
+California+Illinois+New York: $5,986.0m vs $5,896.9m (+1.5%), 37.6% of Q3 2026 US-to-Mexico
+===== bull_case.py
+market cap $2537.5m; TTM owner earnings $314.2m = 12.4% yield
+buybacks $202m a year at $69.07 retire 2.92m shares = 8.0% of 36.74m
+owner earnings 2027 $290.5m = 11.4% of today's market cap
+owner earnings 2028 $269.1m = 10.6% of today's market cap
+owner earnings 2029 $267.0m = 10.5% of today's market cap
+owner earnings 2030 $256.1m = 10.1% of today's market cap
+owner earnings 2031 $227.3m = 9.0%, growing -0.34% a year, against a 10% cost of equity
+drop from TTM to 2031: $86.9m
+central: $65.57
+CoreCard keeps half: $67.63
+Ria Q1 2027 holds at $41.9m: $67.88
+operating tax 31%: $70.15
+legacy PI flat: $68.44
+convertible refinanced at today SOFR curve 2027 avg: $65.22
+neutral inputs (CoreCard half, Q1 at $41.9m, tax 31%): $74.77
+neutral + legacy PI flat: $77.98
+BUY needs a value of $78.98 (expected return 14.35%)
+Ria Q4 print that gets to BUY with no growth after: $56.4m
+... with Ria +2% a year and legacy PI flat: $44.0m
+2027 EPS growth 10.0% needs $34.2m more adjusted earnings than my build = $45.6m more operating income pre-tax (at 25%)
+2027 EPS growth 10.2% needs $34.9m more adjusted earnings than my build = $46.5m more operating income pre-tax (at 25%)
+my Ria 2027 $146.8m; Ria 2025 adjusted: 45.1 + 65.6 + 59.3 + 57.6 = $227.6m
+Street implied Q4 $2.60 vs my $2.26 and the top of my range $2.45: gap $0.34 = $13.1m of adjusted earnings
+each $1m of Q4 operating income adds $0.617m of adjusted earnings; $2.60 needs $21.3m more, i.e. Ria about $58.7m vs $57.6m in Q4 2025
+value at a 9.35% cost of equity: $69.68
+===== consensus_bridge.py
+Euronet adjusted earnings Q3 2026: $137.0m ($3.55 on 38.63m adjusted diluted shares)
+    -16.7  take share comp back out (Euronet adds it back)  -> $120.3m
+    +29.9  add the rest of D&A (Euronet adds back only the $9.6m of acquired-intangible amortization)  -> $150.2m
+    -26.7  subtract capex (Q3: 9M $91.3m less H1 $64.6m)  -> $123.5m
+     +3.3  keep the FX gain Euronet strips out  -> $126.8m
+     +3.0  keep the investment gain and accrual Euronet strips out  -> $129.8m
+     -3.4  drop the tax add-backs  -> $126.4m
+owner earnings Q3 2026: $126.4m = net income 113.6 + D&A 39.5 - capex 26.7 ($3.27 on the same shares)
+TTM share comp $62.5m = $1.70 a share on today's count
+  adjusted EPS 2025 actual: $9.61; P/E at $69.07 7.2x
+  adjusted EPS 2026 consensus: $10.55; P/E at $69.07 6.5x
+  adjusted EPS 2027 consensus: $11.63; P/E at $69.07 5.9x
+2027 consensus growth +10.2%; GAAP EPS consensus 2026 $6.72, 2027 $7.89
+price / base owner earnings: 8.5x
+===== corecard_clock.py
+large customer relationship $40.2m over 2.4 years from 2025-10-30: fully amortized around 2028-03-25
+Chase transition at ~24 months from 7 Jan 2026: around 2028-01-08
+implied purchase-price amortization $4.75m a quarter (the Q3 release says a $4.7m increase)
+Goldman's FY2024 revenue at CoreCard: $35.6m
+CoreCard annualized: revenue $99.2m, operating income $27.1m, gross margin 60.3%
+if half the revenue goes (management's words), gross profit lost $29.9m, more than the $27.1m operating income, so I take the whole $27.1m out
+after tax at 34.7%: $17.7m a year
+===== corecard_deal.py
+paid $192.7m in 2.55m new shares, about $75.52 a share
+net of CoreCard's own cash and investments: $150.1m
+goodwill $88.3m = 8.7% of Euronet's $1018.3m
+cliff $17.7m a year = $0.48 a share, $4.82 of value at 10x, 7.0% of the price
+2025 buybacks: 7.24m shares for $669.6m, average $92.44
+2026 nine-month buybacks: $202.0m
+base owner earnings yield at $69.07: 11.7%
+BUY below $65.19; SELL above $71.44; at $69.07 expected +7.9%
+Q4 2025 vs Q4 2024 cross-border op income: -36.3%
+El Salvador Jan-Sep: +3.5%
+===== count_vs_average.py
+Mexico Jan-Sep: average $411 vs $391 (+5.1%), transfers 114.9m vs 118.0m (-2.6%), value +2.4%
+Honduras BCH sender survey Aug 2026: average $510.30 vs $451.80 (+12.9%)
+Honduras total inflows through September +11.2% (BCH via La Tribuna): average send grew faster than the total
+Guatemala: 122bp end-July -> 142bp end-October (+20bp)
+Honduras: 164bp end-July -> 204bp end-October (+40bp)
+El Salvador: 275bp end-July -> 317bp end-October (+42bp)
+===== implied_move.py
+Feb straddle 14.6% of price, Jan 10.4%; implied move for the print about +/-5.6%
+last two prints: -7.0% (31 Jul 2026) and -7.7% (27 Oct 2026)
+===== legacy_pi.py
+Q4 2025: segment $42.8m, CoreCard $-1.27m, legacy $44.07m vs $37.3m = +18.2% reported
+Q1 2026: segment $23.4m, CoreCard $+0.35m, legacy $23.05m vs $23.3m = -1.1% reported, currency took $0.13m, legacy constant currency $23.18m = -0.5%
+Q2 2026: segment $86.1m, CoreCard $+2.15m, legacy $83.95m vs $84.6m = -0.8% reported, currency took $0.19m, legacy constant currency $84.14m = -0.5%
+Q3 2026: segment $128.2m, CoreCard $+3.55m, legacy $124.65m vs $128.1m = -2.7% reported, currency took $2.46m, legacy constant currency $127.11m = -0.8%
+9M 2026 legacy: reported -1.8%, constant currency -0.7%
+===== model.py
+Quarterly segment operating income, $m (GAAP; PI includes CoreCard after its purchase amortization)
+period        PI  legacy CoreCard    epay     Ria    corp   total
+Q4 2026     47.3    43.8      3.6    45.9    37.4   -26.0   104.6
+Q1 2027     26.4    22.9      3.6    31.8    28.8   -26.0    61.0
+Q2 2027     86.9    83.4      3.6    32.1    43.3   -26.0   136.4
+Q3 2027    127.3   123.8      3.6    31.2    37.3   -26.0   169.8
+Q4 2027     47.0    43.5      3.6    45.0    37.4   -26.0   103.4
+Q1 2028     19.5    22.7     -3.2    31.8    28.8   -26.0    54.0
+Q2 2028     83.7    82.8      1.0    32.1    43.3   -26.0   133.2
+Q3 2028    123.9   122.9      1.0    31.2    37.3   -26.0   166.3
+Q4 2028     44.1    43.2      1.0    45.0    37.4   -26.0   100.5
+
+convertible refinanced Oct 2030 at 5.54% (revolver all-in at the 2030 forward SOFR) vs 0.625%: +$49.1m a year pre-tax, $36.8m after tax
+interest run rate today: $66.8m net a year (Q3 x4) vs $51.4m in the TTM
+owner earnings: Q4 2026 $46.8m; 2027 $290.5m, 2028 $269.1m, 2029 $267.0m, 2030 $256.1m; 2031 $227.3m
+terminal growth -0.34%, terminal value $2198m, equity value $2409m
+VALUE $65.57 a share, -5.1% vs $69.07
+BUY below $57.34, SELL above $62.83
+  no refinancing at all (0.625% forever): $72.36
+  SOFR held at today's 3.94% instead of the futures curve: $66.88
+  SOFR by year (futures): 2027 4.54%, 2028 4.30%, 2029 4.24%, 2030 4.29%
+
+sensitivity (one at a time):
+  cost of equity 9.35%               $ 69.68 (+4.12)
+  cost of equity 11%                 $ 60.15 (-5.42)
+  refi at BBB index 6.09%            $ 64.80 (-0.77)
+  refi at 4.5%                       $ 67.00 (+1.43)
+  Ria Q1 2027 holds at $41.9m        $ 67.88 (+2.31)
+  operating tax 31%                  $ 70.15 (+4.58)
+  no tax shield on interest          $ 58.47 (-7.10)
+  interest shield at 21% federal only $ 64.43 (-1.14)
+  uncommitted lines not on the SOFR curve $ 65.89 (+0.33)
+  Ria -3% a year after 2027          $ 60.02 (-5.54)
+  Ria +2% a year after 2027          $ 70.22 (+4.66)
+  Ria Q4 only -25%                   $ 66.68 (+1.11)
+  legacy PI -2%                      $ 60.84 (-4.72)
+  legacy PI +1%                      $ 73.03 (+7.46)
+  epay 2027 -5%                      $ 64.81 (-0.76)
+  CoreCard keeps half (loss 13.55)   $ 67.63 (+2.06)
+  dollar 10% stronger                $ 58.02 (-7.55)
+  dollar 10% weaker                  $ 73.12 (+7.55)
+
+Q4 EPS two ways: pass-through $2.28, direct build $2.24 (adjusted tax 24.8%); I use the average $2.26
+
+Q4 2026 FORECAST: Ria $37.4m (vs $57.6m adjusted), legacy PI $43.8m constant currency (vs $44.1m), epay $45.9m (vs $47.3m), adjusted EPS $2.26 (Street implied $2.60, Q4 2025 $2.39)
+  pass-through 0.48, change in operating income -16.8, change in net interest -7.8, adjusted earnings $86.4m on 38.18m shares
+
+MY ADJUSTED EPS vs CONSENSUS: 2026E $10.21 vs $10.55; 2027E $10.29 vs $11.63 (+0.8% growth vs Street +10.2%)
+  2027 operating income $470.5m vs 2026E $485.3m; net interest $73.6m vs $59.2m; average adjusted shares 36.36m
+
+net debt Sep 2026 $1243.2m (ATM cash not netted); with buybacks at $202m a year funded from owner earnings of ~$290m, net debt falls ~$88m in 2027
+shares: 36.74m today; $202m a year at $69.07 retires 2.92m a year
+===== owner_earnings.py
+2023: owner earnings $318.2m on 48.48m shares = $6.56 a share
+2024: owner earnings $320.6m on 44.90m shares = $7.14 a share
+2025: owner earnings $322.5m on 41.81m shares = $7.71 a share
+TTM to Sep 2026: $314.2m, $8.26 a share on the 9M average of 38.03m shares, $8.55 on today's 36.74m
+owner earnings yield 12.4% on a $2,537.5m market cap
+===== peer_panel.py
+Ria (Euronet): Cross-Border revenue booked in North America ($m) -7.5%
+Western Union: Consumer Money Transfer revenue North America (where initiated) ($m) -8.4%
+Remitly: Revenue from senders in the United States ($m) +24.5%
+Intermex: Transactions (m) 35.4 (down about 12.8%)
+Intermex: Principal sent ($bn) 15.7 (down about 12.6%)
+Mexico (Banxico): Remittance transfers (m) -2.6%
+Ria (Euronet): Cross-Border transactions (m) -1.3%
+===== playbook.py
+Ria Q4 $33.0m: flat $62.42, +2%/yr $66.47, -3%/yr $57.57
+Ria Q4 $37.4m: flat $65.54, +2%/yr $70.19, -3%/yr $60.00
+Ria Q4 $42.0m: flat $68.80, +2%/yr $74.10, -3%/yr $62.54
+Ria Q4 $45.0m: flat $70.92, +2%/yr $76.65, -3%/yr $64.19
+Ria Q4 needed for HOLD ($72.07): flat $46.6m, with 2% growth $39.6m
+Legacy PI +1%/yr with Ria at forecast: $73.03
+===== price_index_compare.py
+2026-11-26T17:31Z MX Ria $9.95 rank 3/4 (best other wise $9.09) | GT Ria $5.41 rank 1/5 (best other xoom $5.78) | HN Ria $3.71 rank 2/4 (best other western-union $3.68) | SV Ria $2.90 rank 1/2 (best other wise $9.03)
+2026-11-26T19:03Z MX Ria $10.21 rank 3/4 (best other wise $9.09) | GT Ria $5.43 rank 1/5 (best other xoom $5.78) | HN Ria $3.71 rank 2/4 (best other western-union $3.68) | SV Ria $2.90 rank 1/2 (best other wise $9.03)
+===== price_index_summary.py
+run 2026-11-26T19:03Z: Ria bank-funded is cheapest in 2 of 4 corridors with a comparison
+median gap to the cheapest other provider: $-0.16
+===== price_weighted.py
+all four:
+  MX: weight 57.7%, Ria $9.95 vs best other $9.09 (+0.86, 3 others)
+  GT: weight 22.8%, Ria $5.41 vs best other $5.78 (-0.37, 4 others)
+  HN: weight 10.6%, Ria $3.71 vs best other $3.68 (+0.03, 3 others)
+  SV: weight 9.0%, Ria $2.90 vs best other $9.03 (-6.13, 1 others)
+weighted gap $-0.13
+without El Salvador (only Wise to compare):
+  MX: weight 63.4%, Ria $9.95 vs best other $9.09 (+0.86, 3 others)
+  GT: weight 25.0%, Ria $5.41 vs best other $5.78 (-0.37, 4 others)
+  HN: weight 11.6%, Ria $3.71 vs best other $3.68 (+0.03, 3 others)
+weighted gap $+0.46
+===== revenue_per_transfer.py
+revenue per transfer $9.83 -> $9.51 (-3.3%); constant currency $9.56 (-2.8%)
+a digital transfer earns about 67% of a walk-in one (Mexico, $400)
+digital share 13.3% -> 17.9%; mix effect -1.6%; the rest (price, corridor, other) -1.2%
+  if digital earns 50%: mix -2.5%, rest -0.3%
+  if digital earns 80%: mix -0.9%, rest -1.9%
+===== ria_cost_bridge.py
+revenue -21.4, direct costs -8.6, gross profit -12.8
+salaries -0.6 (effect on operating income +0.6)
+sga +10.1 (effect on operating income -10.1)
+da -0.3 (effect on operating income +0.3)
+operating income -22.0 (reported -22.0)
+gross margin 47.9% -> 47.3%; SG&A % of revenue 12.8% -> 15.8%
+Q1 SG&A $61.2m vs $54.1m: +7.1
+Q2 SG&A $65.9m vs $60.1m: +5.8
+Q3 SG&A $68.2m vs $58.1m: +10.1
+average 2026 step-up 7.7 a quarter
+value if the Q3 step-up ($10.1m a quarter) reverses from 2027: $72.69
+value if the average step-up ($7.7m) reverses: $70.99
+value if SG&A rises another $5m a quarter: $62.04
+===== ria_us_exposure.py
+FY2024: North America $783.9m of $1686.5m = 46.5%
+FY2025: North America $799.7m of $1782.4m = 44.9%
+Q1 2026 North America $182.4m vs $190.8m: -4.4%
+Q2 2026 North America $189.9m vs $205.0m: -7.4%
+Q3 2026 North America $183.8m vs $200.5m: -8.3%
+Q3 2026 share 42.6%; everything else $247.2m vs $251.9m: -1.9%
+North America -8% a year, rest flat -> segment revenue -3.4% a year
+===== segments_ttm.py
+Payments Infrastructure  TTM $ 280.5m  9M change +0.7%  48.0% of segment profit
+epay                     TTM $ 144.3m  9M change +9.1%  24.7% of segment profit
+Cross-Border Payments    TTM $ 159.7m  9M change -27.9%  27.3% of segment profit
+Corporate                TTM $-102.8m  9M change +15.7%  
+consolidated TTM operating income $481.7m
+===== sensitivity.py
+TTM capex $122.9m vs depreciation $120.2m -> growth capex $2.7m; base $299.2m
+split: PI $136.0m, epay $77.5m, CB $85.7m
+central: $78.78 (+14.1%)  [PI -0.7% (legacy, constant currency, 9M 2026), epay 0%, Ria 0%, no refill, 10%]
+  Ria -3% / +2%: $72.85 to $85.19 (width $12.34)
+  Cost of equity 11% / 9.35%: $71.80 to $84.09 (width $12.28)
+  Payments Infrastructure -2% / +1%: $74.65 to $85.97 (width $11.31)
+  epay -2% / +2%: $74.91 to $84.58 (width $9.66)
+  CoreCard refill 0% / 50%: $78.78 to $81.19 (width $2.41)
+27-case growth grid at 10%: min $64.87, 25th $74.65, median $80.45, 75th $85.97, max $98.18
+BUY needs $78.98; SELL below $72.07
+BUY below $68.89, SELL above $75.49 on the central value
+owner earnings yield on the base at $69.07: 11.8%
+===== sga_split.py
+SG&A +$10.1m = advertising $6.0m (59%) + other incl. professional fees $4.1m
+value if the advertising reverses from 2027: $69.80; if the rest reverses: $68.46; both: $72.69; base $65.57
+only legal matter named for the segment: Italian agent withholding tax, about EUR 18.4m, reasonably possible, not accrued
+===== street_bridge.py
+Street 2026: adjusted earnings $409.0m (Q4 at $2.60 x 38.18m), implied average shares 38.76m
+2027 average shares with buybacks all year at $202m: 36.36m (-6.2%)
+1) buybacks alone: $10.55 -> $11.25 (+6.6%)
+2) net interest $59.2m -> $73.6m on the futures curve: -10.8m after tax, $-0.30 -> $10.95
+   (if the buybacks were all borrowed, another -$4.4m after tax, $-0.12)
+3) left for operations: $0.67 a share = $24.5m of adjusted earnings = $32.6m more operating income than 2026 at the 24.8% adjusted tax rate
+Street-implied operating income: 2026 $506.6m, 2027 $539.2m (+6.4%)
+mine: 2026 $485.3m, 2027 $470.5m (-3.1%)
+gap in 2027 operating income: $68.7m
+===== sum_of_parts.py
+Payments Infrastructure  EBITDA $ 405.3m x 6.53 = $   2647m | pre-tax return on segment assets  8.9%
+epay                     EBITDA $ 150.5m x 6.00 = $    903m | pre-tax return on segment assets 16.0%
+Cross-Border Payments    EBITDA $ 185.0m x 4.75 = $    879m | pre-tax return on segment assets  9.6%
+Corporate                EBITDA $-102.0m x 5.50 = $   -561m | pre-tax return on segment assets -30.2%
+EV $3,867m, less net debt $1,243.2m (ATM cash not netted) = equity $2,624m = $71.43 a share
+if the $912.7m of ATM cash is netted too: $96.27 a share
+===== tieout.py
+tie-out OK
+===== trend_test.py
+Payments Infrastructure ex the Apple Card: $134.8m of base owner earnings (45.5%)
+epay: $76.8m of base owner earnings (25.9%)
+Cross-Border: $84.9m of base owner earnings (28.7%)
+BUY line: $78.98 (14.35% over $69.07)
+cost of equity 10.00%
+  flat everywhere: $80.71 (+16.8%)
+  ATMs keep shrinking 1.8%, rest flat: $74.55 (+7.9%)
+  ATMs -1.8%, epay -2% (Steam), Ria -3%: $64.85 (-6.1%)
+cost of equity 9.35%
+  flat everywhere: $86.32 (+25.0%)
+  ATMs keep shrinking 1.8%, rest flat: $79.39 (+14.9%)
+  ATMs -1.8%, epay -2% (Steam), Ria -3%: $68.52 (-0.8%)
+odds on 'flat' needed for a BUY at 10%: 89%
+  Cross-Border op income Q4 2024: $58.4m
+  Cross-Border op income Q1 2025: $45.1m
+  Cross-Border op income Q2 2025: $65.6m
+  Cross-Border op income Q3 2025: $59.3m
+  Cross-Border op income Q4 2025: $37.2m
+  Cross-Border op income Q1 2026: $41.9m
+  Cross-Border op income Q2 2026: $43.3m
+  Cross-Border op income Q3 2026: $37.3m
+TTM check: 159.7
+digital share 17.9%; next-year transfers at Q3 rates: +0.5%
+===== valuation.py
+TTM owner earnings $314.2m, less the CoreCard cliff $17.7m = base $296.5m
+cost of equity, beta 1.0 on Damodaran's inputs: 9.35% (I value at 10%)
+TTM: the price implies -2.1% a year forever at 10%
+base after the cliff: the price implies -1.5% a year forever at 10%
+  base at k=9%: -2.4%
+  base at k=11%: -0.6%
+  base at k=12%: +0.3%
+value per share on the base (rows k, columns g):
+  k 9%: -2% $71.91  +0% $89.68  +2% $117.61
+  k 10%: -2% $65.92  +0% $80.71  +2% $102.91
+  k 11%: -2% $60.84  +0% $73.37  +2% $91.47
+target, flat at 10%: $80.71, +16.9%
+cross-border after tax $104.3m; the rest $192.2m = $52.32/sh at 10x; left for Ria $16.75/sh, 5.9x
+===== what_is_priced.py
+Q4 2024: $2.08 vs $2.06 (+1.1%, beat); release day +10.1%, two days +10.8%
+Q1 2025: $1.13 vs $1.09 (+3.5%, beat); release day +1.5%, two days -0.7%
+Q2 2025: $2.56 vs $2.66 (-3.8%, miss); release day -1.8%, two days -5.2%
+Q3 2025: $3.62 vs $3.61 (+0.3%, beat); release day -5.9%, two days -7.2%
+Q4 2025: $2.39 vs $2.46 (-3.0%, miss); release day -3.3%, two days -3.2%
+Q1 2026: $1.58 vs $1.46 (+8.5%, beat); release day -0.5%, two days -4.4%
+Q2 2026: $2.82 vs $2.94 (-4.0%, miss); release day -8.4%, two days -14.7%
+Q3 2026: $3.55 vs $3.69 (-3.8%, miss); release day -7.7%, two days -4.4%
+misses 4: average release-day move -5.3%, all down: True
+beats 4: average release-day move +1.3%
+2027: 9 analysts, $11.50 to $11.89, mean $11.63; trend 1M 0.00%, 3M -2.66%, 6M -4.67%
+   six months ago the 2027 mean was about $12.20; my $10.29 is $1.21 below the lowest estimate
+bear (Ria -3% a year) $60.02 (-13.1%), base $65.57 (-5.1%), bull (neutral inputs) $74.77 (+8.3%)
+25/50/25 expected value $66.48 (-3.7%)
+  weights (0.2, 0.5, 0.3): $67.22 (-2.7%)
+  weights (0.15, 0.5, 0.35): $67.96 (-1.6%)
