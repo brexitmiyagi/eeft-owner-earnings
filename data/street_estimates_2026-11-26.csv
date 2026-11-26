@@ -1,0 +1,16 @@
+item,value,source
+analysts_2026,8,Seeking Alpha estimates API 26 Nov 2026
+eps_2026_low,10.50,Seeking Alpha
+eps_2026_high,10.67,Seeking Alpha
+eps_2026_mean,10.55375,Seeking Alpha
+analysts_2027,9,Seeking Alpha
+eps_2027_low,11.50,Seeking Alpha
+eps_2027_high,11.89,Seeking Alpha
+eps_2027_mean,11.62889,Seeking Alpha
+eps_2027_trend_1m_pct,0.00,Seeking Alpha revisions page
+eps_2027_trend_3m_pct,-2.66,Seeking Alpha revisions page
+eps_2027_trend_6m_pct,-4.67,Seeking Alpha revisions page
+fy_up_revisions_3m,0,Seeking Alpha revisions page (upcoming fiscal year)
+fy_down_revisions_3m,7,Seeking Alpha revisions page (upcoming fiscal year)
+buyback_authorization_remaining_m,493.4,Q3 2026 10-Q: $68.4m under the June 2025 program (to 3 Jun 2027) + $425m under the Feb 2026 program (unused)
+q3_2026_repurchases,"691,741 shares at $72.28, all in September",Q3 2026 10-Q Part II Item 2

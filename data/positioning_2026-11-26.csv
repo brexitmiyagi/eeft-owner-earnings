@@ -1,0 +1,12 @@
+item,value,source
+short_interest_pct_float,16.3,Seeking Alpha metrics 26 Nov 2026
+wu_short_interest_pct_float,19.4,Seeking Alpha metrics 26 Nov 2026
+institutional_ownership_pct,119.25,Nasdaq institutional holdings (13F; counts above 100% because of lending/short double counting and a shrinking share count)
+holders_increased,165,Nasdaq (latest 13F period)
+holders_decreased,216,Nasdaq
+largest_holder,BlackRock 3.42m (30 Sep 2026); Vanguard Group 3.77m (31 Dec 2025 filing),Nasdaq
+new_position_q3,Kim LLC 1.46m shares,Nasdaq
+feb19_2027_70_call_bid_ask,4.20/5.40,Nasdaq option chain 26 Nov 2026 (last trade 25 Nov)
+feb19_2027_70_put_bid_ask,3.90/6.70,Nasdaq option chain
+jan15_2027_70_call_bid_ask,1.50/4.40,Nasdaq option chain
+jan15_2027_70_put_bid_ask,2.30/6.10,Nasdaq option chain

@@ -1,0 +1,11 @@
+run_utc,metro,send_locations_within_10mi,queries,queries_at_cap
+2026-11-26T17:51Z,Houston,116,25,25
+2026-11-26T17:51Z,Dallas,161,25,25
+2026-11-26T17:51Z,LosAngeles,400,25,25
+2026-11-26T17:51Z,Chicago,156,25,25
+2026-11-26T17:51Z,NewYork_Queens,502,25,25
+2026-11-26T17:51Z,Miami,156,25,25
+2026-11-26T17:51Z,Phoenix,64,25,25
+2026-11-26T17:51Z,SanAntonio,56,25,4
+2026-11-26T17:51Z,Atlanta,54,25,25
+2026-11-26T17:51Z,Fresno,60,25,25

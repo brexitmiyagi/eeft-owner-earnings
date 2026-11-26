@@ -1,0 +1,5 @@
+corridor,payment_method,exchange_rate,transfer_fee_usd,tax_usd,read_utc
+MX,BankAccount,19.332,1.99,0,2026-11-26T19:03Z
+GT,BankAccount,7.545,0,0,2026-11-26T19:03Z
+HN,BankAccount,26.92,3,0,2026-11-26T19:03Z
+SV,BankAccount,1,2.9,0,2026-11-26T19:03Z
