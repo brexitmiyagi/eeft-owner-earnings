@@ -1,6 +1,6 @@
 # eeft-owner-earnings
 
-Data and code behind my Seeking Alpha piece on Euronet Worldwide (EEFT), "Euronet: The Street Wants 10% EPS Growth Next Year, The Evidence Says Flat" (November 2026). SELL, low conviction, value $65.57 from $69.07. My Q4 2026 forecasts are in results/eeft_model.xlsx and get scored after the print.
+Data and code behind my Seeking Alpha piece on Euronet Worldwide (EEFT), "Euronet: Take Out The Buybacks And The Street Still Needs 6% Profit Growth" (November 2026). SELL over 12 months, low conviction, value $65.57 (probability-weighted $66.48) from $69.07. My Q4 2026 forecasts are in results/eeft_live_model.xlsx and get scored after the print.
 
 The whole call rests on owner earnings, so I wanted it checkable. Owner earnings here are GAAP net income plus depreciation and amortization, less capex. I leave share comp in as a cost and I don't use the company's adjusted EPS.
 
