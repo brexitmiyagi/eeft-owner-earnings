@@ -1,0 +1,24 @@
+item,value,source
+cash_taxes_paid_2025_m,152.7,10-K FY2025 cash flow (XBRL IncomeTaxesPaidNet)
+gaap_tax_2025_m,135.2,10-K FY2025 (XBRL IncomeTaxExpenseBenefit)
+deferred_tax_2025_m,-22.0,10-K FY2025 (XBRL DeferredIncomeTaxExpenseBenefit)
+cash_taxes_paid_ttm_m,155.8,152.7 - 104.3 + 107.4 (XBRL)
+gaap_tax_ttm_m,160.8,135.2 - 95.8 + 121.4 (XBRL)
+pretax_ttm_m,441.3,448.2 - 357.0 + 350.1 (XBRL)
+us_pretax_2025_m,-100.4,10-K FY2025 (XBRL IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic)
+foreign_pretax_2025_m,548.6,10-K FY2025 (XBRL ...Foreign)
+noncash_gaap_tax_addback_quarters_2025_m,-19.3 | 3.0 | 7.7 | 6.6,Q1-Q4 2025 releases (sum -2.0)
+tax_effect_of_adjustments_quarters_2025_m,0 | -13.7 | -2.8 | -3.0,Q1-Q4 2025 releases (sum -19.5)
+noncash_gaap_tax_addback_fy2025_m,42.4,Q4 2025 release full-year column
+tax_effect_of_adjustments_fy2025_m,-64.0,Q4 2025 release full-year column
+ria_q2_2025_vs_q2_2024_m,65.6 vs 47.3,Q2 2025 10-Q (+39%)
+ria_q1_2024_m,37.2,Q1 2025 10-Q
+ria_q3_2024_m,58.1,Q3 2025 10-Q
+ria_network_locations,607k Dec24; 624k Mar25; 631k Jun25; 638k Sep25; 639k Dec25; 651k Mar26; 651k Jun26; 654k Sep26,Euronet earnings releases
+corecard_revenue_2026_m,Q1 31.1; Q2 20.9; Q3 22.4,2026 10-Qs (9M 74.4; H1 52.0)
+corecard_gross_margin_2026_m,Q1 14.6; Q2 14.9; Q3 15.4,2026 10-Qs (9M 44.9; H1 29.5)
+kim_llc,1463611 shares + $25m face of 2030 converts at 30 Sep 2026; other included manager Koch Inc.,KIM LLC 13F-HR filed 16 Nov 2026 (CIK 1888968)
+convert_fair_value_sep2026_m,896.9,Q3 2026 10-Q Item 3 (89.7% of face)
+revolver_facility_fee,0.00175,Q3 2026 10-Q
+nprm_households_nonbank,3.6 million a year; 30-36% (1.1-1.3 million) likely cash,IRS NPRM 2026-07085 (Federal Register 13 Apr 2026)
+nprm_msbs,~600 licensed money transmitters; 200+ with ~500000 agents accept cash,IRS NPRM 2026-07085

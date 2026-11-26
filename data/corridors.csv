@@ -1,0 +1,8 @@
+series,change_pct,period,source
+Remittances to Guatemala ($),5.5,Jan-Sep 2026 vs 2025,Banco de Guatemala remfam2002_2026
+Remittances to El Salvador ($),3.3,Jan-Oct 2026 vs 2025,BCR El Salvador estadisticas
+Remittances to Mexico ($),2.1,Jan-Sep 2026 vs 2025,Banxico via El Financiero and La Razon
+Ria digital transfers,34.0,Q3 2026 vs Q3 2025,Euronet Q3 2026 release
+Western Union North America transactions,-4.0,Q3 2026 vs Q3 2025,Western Union Q3 2026 release
+Ria walk-in and agent transfers,-6.8,Q3 2026 vs Q3 2025,Euronet Q3 2026 release (derived)
+Western Union Latin America and Caribbean transactions,-12.0,Q3 2026 vs Q3 2025,Western Union Q3 2026 release

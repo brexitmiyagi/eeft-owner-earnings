@@ -1,0 +1,16 @@
+item,value,source
+corecard_revenue_fy2024_k,57399,CoreCard 10-K FY2024 (Total revenue $57,399,000)
+goldman_share_fy2024_pct,62,CoreCard 10-K FY2024 (Customer A)
+goldman_term_end,2030-12-31,CoreCard 10-K FY2024 Omnibus Amendment
+goldman_earliest_termination,2027-01-01,CoreCard 10-K FY2024 (termination payments due if before 2030-12-31)
+euronet_close,2025-10-30,Euronet Q3 2026 10-Q
+purchase_consideration_m,192.7,Euronet Q3 2026 10-Q
+large_customer_relationship_m,40.2,Euronet Q3 2026 10-Q intangibles table
+large_customer_relationship_life_years,2.4,Euronet Q3 2026 10-Q intangibles table
+platform_m,11.0,Euronet Q3 2026 10-Q (9 years)
+trade_name_m,7.2,Euronet Q3 2026 10-Q (18 years)
+other_customers_m,11.2,Euronet Q3 2026 10-Q (18 years)
+revenue_9m2026_m,74.4,Euronet Q3 2026 10-Q
+gross_margin_9m2026_m,44.9,Euronet Q3 2026 10-Q
+op_income_9m2026_ex_ppa_m,20.3,Euronet Q3 2026 10-Q
+chase_announcement,2026-01-07,Goldman Sachs and JPMorgan Chase press releases (transition in about 24 months)

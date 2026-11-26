@@ -1,0 +1,9 @@
+item,value,source
+revolver_rate_basis,"interest as of September 30, 2026, was based on SOFR",Q3 2026 10-Q Item 3
+revolver_1pct_sensitivity_m,6.9,Q3 2026 10-Q Item 3
+revolver_and_uncommitted_jun30_2026_m,811.4 and 800.0,Q2 2026 10-Q debt note
+uncommitted_lines,"accrue interest at variable rates" (currency not stated),Q3 2026 10-Q Item 3
+valuation_allowance_2025_m,87.9 (not split by country),10-K FY2025 Note 15
+foreign_nol_2025_m,193.8,10-K FY2025 Note 15
+state_nol_2025_m,58.2,10-K FY2025 Note 15
+us_foreign_tax_credits_m,43.6 ("largely not expected to be utilized"),10-K FY2025 Note 15

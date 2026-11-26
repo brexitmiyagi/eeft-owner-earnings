@@ -1,0 +1,36 @@
+item,value,source
+price,69.07,Seeking Alpha close 25 Nov 2026
+basic_shares_m,36.737747,10-Q cover Nov 2026
+adj_diluted_shares_q3_m,38.633852,Q3 2026 release
+adj_eps_q1_2026,1.58,Q1 2026 release
+adj_eps_q2_2026,2.82,Q2 2026 release
+adj_eps_q3_2026,3.55,Q3 2026 release
+adj_eps_q4_2025,2.39,Q4 2025 release
+adj_earnings_q4_2025_m,99.1,Q4 2025 release
+adj_earnings_q3_2026_m,137.0,Q3 2026 release
+adj_earnings_q3_2025_m,148.3,Q3 2026 release
+consensus_adj_eps_2026,10.55375,Seeking Alpha consensus mean
+consensus_adj_eps_2027,11.62889,Seeking Alpha consensus mean
+ria_q4_2025_adjusted_oi_m,57.6,Q4 2025 release (GAAP 37.2 incl. 20.4 Money Transfer restructuring charge)
+pi_q4_2025_oi_m,42.8,Q4 2025 release
+epay_q4_2025_oi_m,47.3,Q4 2025 release
+corp_q4_2025_oi_m,-26.3,10-K FY2025 less 9M
+interest_exp_q3_2026_m,21.7,10-Q Q3 2026 (XBRL InterestExpenseNonoperating)
+interest_inc_q3_2026_m,5.0,10-Q Q3 2026 (XBRL InvestmentIncomeInterest)
+interest_exp_q4_2025_m,14.4,10-K FY2025 less 9M (84.5 - 70.1)
+interest_inc_q4_2025_m,5.5,10-K FY2025 less 9M (23.2 - 17.7)
+convert_2030_m,1000.0,10-Q Q3 2026 Note 10 (0.625% coupon matures Oct 2030)
+convert_coupon,0.00625,10-Q Q3 2026
+bbb_yield_2026_11_24,0.0609,FRED BAMLC0A4CBBBEY (ICE BofA BBB US Corporate effective yield)
+sofr_2026_11_24,0.0394,FRED SOFR
+revolver_margin,0.01075,10-Q Q3 2026 (applicable margin at current rating)
+revolver_drawn_m,689.1,10-Q Q3 2026
+tax_rate_operating,0.347,10-Q 9M 2026 effective rate
+tax_rate_interest,0.25,assumption: US federal 21% plus state; interest sits in the US
+capex_guide_2026_mid_m,140.0,10-K FY2025 (2026 capex estimated $135m-$145m)
+capex_9m_2026_m,91.3,10-Q Q3 2026
+dep_ttm_m,120.2,XBRL Depreciation and AmortizationOfIntangibleAssets
+amort_q3_2026_m,9.6,Q3 2026 release
+sbc_q3_2026_m,16.7,Q3 2026 release
+non_usd_revenue_share,0.76,10-K FY2025
+buyback_per_quarter_m,50.5,10-Q Q2 and Q3 2026 repurchases

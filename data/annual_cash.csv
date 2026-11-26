@@ -1,0 +1,6 @@
+period,net_income_m,d_and_a_m,capex_m,share_comp_m,basic_avg_shares,source
+2023,279.7,132.9,94.4,53.7,48482006,10-K XBRL (NetIncomeLoss DepreciationDepletionAndAmortization PaymentsToAcquirePropertyPlantAndEquipment)
+2024,306.0,131.8,117.2,43.9,44896711,10-K XBRL
+2025,309.5,138.5,125.5,55.1,41813424,10-K FY2025 XBRL
+9M2025,258.0,100.8,93.9,39.8,42109970,10-Q Q3 2026 cash flow statement and EPS note
+9M2026,228.5,119.4,91.3,47.2,38027010,10-Q Q3 2026 cash flow statement and EPS note

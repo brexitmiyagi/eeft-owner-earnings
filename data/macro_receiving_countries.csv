@@ -1,0 +1,16 @@
+item,honduras,el_salvador,guatemala,mexico,source
+remittances_pct_gdp_2025,30.12,27.51,20.82,3.55,World Bank WDI BX.TRF.PWKR.DT.GD.ZS (updated 2026-11-11)
+remittances_pct_gdp_2024,25.74,24.34,19.12,3.71,World Bank WDI
+private_consumption_pct_gdp_2025,82.14,81.32,87.18,70.23,World Bank WDI NE.CON.PRVT.ZS
+current_account_pct_gdp_2025,2.49,-3.54,4.72,-0.51,World Bank WDI BN.CAB.XOKA.GD.ZS
+current_account_pct_gdp_2024,-4.31,-2.76,2.92,-0.92,World Bank WDI
+reserves_months_imports_2025,5.304,2.448,9.256,,World Bank WDI FI.RES.TOTL.MO
+fx_per_usd_avg_2024,24.799,1,7.759,,World Bank WDI PA.NUS.FCRF
+fx_per_usd_avg_2025,25.953,1,7.680,,World Bank WDI PA.NUS.FCRF
+fx_per_usd_2026_11_26,26.9679,1,7.6489,,Wise mid-market (comparison feed) 26 Nov 2026
+remittances_jan_sep_2026_growth_pct,11.2,3.5,5.5,2.1,BCH via La Tribuna 22 Oct 2026 ($10098.8m vs $9080.1m); BCR via El Mundo; Banco de Guatemala; Banxico via El Financiero
+honduras_fx_inflows_jan1_oct29_2026,remittances 11200 of 19834.3 ($m),,,,BCH via La Tribuna 17 Nov 2026
+nprm_cash_share_households,30-36%,,,,IRS NPRM 2026-07085 (Federal Register 13 Apr 2026)
+goods_services_balance_pct_gdp_2025,-21.52,-24.06,-15.41,,World Bank WDI NE.RSB.GNFS.ZS
+embi_spread_end_july_2026_bp,164 (174 end-June),275 (303 end-June; 418 July 2025),122,,J.P. Morgan EMBI via E&N (6 Aug 2026) and Bloomberg Linea; Comercio & Negocios for July 2025
+imf_el_salvador,,EFF 40 months SDR 1033.92m (~$1.4bn) approved 26 Feb 2025; 2nd/3rd reviews 1 Oct 2026 ($138m); 2026 proj CA -4.8% GDP net transfers 26.1% reserves $5346m,,,IMF PR 26/316

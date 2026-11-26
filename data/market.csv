@@ -1,0 +1,16 @@
+item,value,date,source
+close,69.07,2026-11-25,Seeking Alpha price history
+market_cap_m,2537.5,2026-11-25,Seeking Alpha
+short_interest_pct_float,16.3,2026-11,Seeking Alpha
+beta_24m,0.855,2026-11,Seeking Alpha
+consensus_adj_eps_2026,10.55,2026-11,Seeking Alpha (8 analysts)
+consensus_adj_eps_2027,11.63,2026-11,Seeking Alpha
+risk_free,4.94,2026-11,Damodaran November inputs
+equity_risk_premium,4.41,2026-11,Damodaran November inputs
+buyback_left_2025_program_m,68.4,2026-09-30,10-Q Q3 2026 Note 5
+buyback_2026_program_m,425.0,2026-02-24,10-Q Q3 2026 Note 5
+convert_2030_m,1000.0,2026-09-30,10-Q Q3 2026 Note 10
+convert_2030_price,127.04,2026-09-30,10-Q Q3 2026 Note 10
+total_debt_m,2198.6,2026-09-30,10-Q Q3 2026 Note 10
+cash_m,955.4,2026-09-30,Q3 2026 release
+atm_cash_m,912.7,2026-09-30,Q3 2026 release
