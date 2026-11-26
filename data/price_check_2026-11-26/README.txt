@@ -1,0 +1,3 @@
+Price check, 26 Nov 2026, sending $400 from the US.
+ria_calculator.csv: Ria's own public calculator on riamoneytransfer.com, read at 17:02 UTC. Standard rate (the first-transfer promo rate is ignored). PayNearMe is Ria's pay-with-cash option; the $4.00 is the 1% US remittance tax Ria shows on it.
+wise_*.json: Wise's public comparison feed (api.wise.com/v4/comparisons) for the same $400, collected by Wise between 24 and 26 Nov. Wise is a competitor, so treat their quotes for others as their data, not mine. I only use its mid-market rate and the Western Union and Remitly quotes collected on 26 Nov.
